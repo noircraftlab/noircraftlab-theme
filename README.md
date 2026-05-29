@@ -2,7 +2,7 @@
 
 > Custom WordPress theme powering [Noircraft Lab](https://noircraftlab.com/) — a multilingual editorial portfolio site built without page builders.
 
-![Theme preview](https://noircraftlab.com/wp-content/uploads/noircraftlab-theme-preview.jpg)
+![Theme preview](https://noircraftlab.com/wp-content/uploads/2026/05/noircraftlab-preview.jpeg)
 
 ---
 
