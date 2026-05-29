@@ -1,0 +1,41 @@
+# ============================================================
+# .gitignore — noircraftlab-theme
+# WordPress theme repository
+# ============================================================
+
+# ── OS / Editor junk ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ── Node (if any tooling added later) ───────────────────────
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ── Backups created during development ──────────────────────
+*.before-*
+*.bak
+*.orig
+*.backup
+
+# ── WordPress core & config (never in theme repo) ───────────
+wp-config.php
+wp-config-sample.php
+
+# ── Compiled / generated files ──────────────────────────────
+*.min.js.map
+*.min.css.map
+
+# ── Environment / secrets ───────────────────────────────────
+.env
+.env.local
+secrets.json
